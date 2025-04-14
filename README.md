@@ -13,10 +13,10 @@ Pre-built spatial files are located in the `geo` directory.
 
 # Examples
 **GeoJSON**
-![Figure using GeoJSON file](figures/geojson_figure.png)
+![Figure using GeoJSON file](https://github.com/btskinner/staterbin/blob/9f510cc232cc75b5350f40d2b69a8ed31809e97f/figures/geojson_figure.png)
 
 **TopoJSON**
-![Figure using TopoJSON file](figures/topojson_figure.png)
+![Figure using TopoJSON file](https://github.com/btskinner/staterbin/blob/9f510cc232cc75b5350f40d2b69a8ed31809e97f/figures/topojson_figure.png)
 
 # Building the files
 
